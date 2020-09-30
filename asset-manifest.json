@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/codemonxter/javascript-visualizer/static/css/main.f913eb2a.chunk.css",
+    "main.js": "/codemonxter/javascript-visualizer/static/js/main.8beb2b52.chunk.js",
+    "main.js.map": "/codemonxter/javascript-visualizer/static/js/main.8beb2b52.chunk.js.map",
+    "runtime-main.js": "/codemonxter/javascript-visualizer/static/js/runtime-main.d5feb96e.js",
+    "runtime-main.js.map": "/codemonxter/javascript-visualizer/static/js/runtime-main.d5feb96e.js.map",
+    "static/css/2.434b7888.chunk.css": "/codemonxter/javascript-visualizer/static/css/2.434b7888.chunk.css",
+    "static/js/2.b8bf6b54.chunk.js": "/codemonxter/javascript-visualizer/static/js/2.b8bf6b54.chunk.js",
+    "static/js/2.b8bf6b54.chunk.js.map": "/codemonxter/javascript-visualizer/static/js/2.b8bf6b54.chunk.js.map",
+    "index.html": "/codemonxter/javascript-visualizer/index.html",
+    "precache-manifest.15590b0c0b58eab8464cc41488e4cd4c.js": "/codemonxter/javascript-visualizer/precache-manifest.15590b0c0b58eab8464cc41488e4cd4c.js",
+    "service-worker.js": "/codemonxter/javascript-visualizer/service-worker.js",
+    "static/css/2.434b7888.chunk.css.map": "/codemonxter/javascript-visualizer/static/css/2.434b7888.chunk.css.map",
+    "static/css/main.f913eb2a.chunk.css.map": "/codemonxter/javascript-visualizer/static/css/main.f913eb2a.chunk.css.map",
+    "static/js/2.b8bf6b54.chunk.js.LICENSE": "/codemonxter/javascript-visualizer/static/js/2.b8bf6b54.chunk.js.LICENSE",
+    "static/media/semantic.min.css": "/codemonxter/javascript-visualizer/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5feb96e.js",
+    "static/css/2.434b7888.chunk.css",
+    "static/js/2.b8bf6b54.chunk.js",
+    "static/css/main.f913eb2a.chunk.css",
+    "static/js/main.8beb2b52.chunk.js"
+  ]
+}
